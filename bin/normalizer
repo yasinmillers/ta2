@@ -1,4 +1,5 @@
-#!/Users/yasinmillers/Desktop/C3D/ta2/bin/python3
+#!/Users/The `yasinmillers` in the file path `/Users/yasinmillers/Desktop/C3D/ta2/bin/python3` is likely the username of the user on the system where this script is located. It is a part of the file path that specifies the location of the Python interpreter on the user's desktop.
+yasinmillers/Desktop/C3D/ta2/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
